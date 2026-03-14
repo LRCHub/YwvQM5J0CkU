@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ラストバージン",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-03-14T10:41:52.690162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラストバージン",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_ラストバージン_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラストバージン",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_ラストバージン_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラストバージン",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_ラストバージン_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラストバージン - Last Virgin",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/04_ラストバージン_-_Last_Virgin_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラストバージン",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_ラストバージン_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラストバージン",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_ラストバージン_RADWIMPS.txt"
+    }
+  ]
+}
